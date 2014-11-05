@@ -216,3 +216,5 @@ with mysql and you're using a user named 'bob', you will need to grant a mysql u
 mysql database.
 
 To switch between ActiveRecord and Redis, set the `CLIENT` environment variable to either `:active_record` or `:redis`.
+ 
+ [ ![Codeship Status for doubov/rpush](https://codeship.io/projects/4dce05c0-46b3-0132-b588-6603b1374d14/status)](https://codeship.io/projects/45391)
